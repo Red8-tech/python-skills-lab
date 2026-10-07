@@ -1,0 +1,3 @@
+Invalid records: [['107', 'George', 'Sales', '-5000', '20'], ['108', 'Helen', 'Engineering', 'abc', '50']]
+Top employee: EmployeeRecord(id='103', name='Charlie', department='Sales', sales=22000.0, orders=150)
+Department statistics: {'Engineering': {'sales': 43000.0, 'orders': 330, 'employees': 3, 'average_sales': 14333.333333333334}, 'Sales': {'sales': 54000.0, 'orders': 370, 'employees': 3, 'average_sales': 18000.0}, 'HR': {'sales': 17500.0, 'orders': 150, 'employees': 2, 'average_sales': 8750.0}}
