@@ -1,5 +1,7 @@
 # Week 4 — pandas and Messy Data
 
+## Overview
+
 Week 4 focuses on practical data analysis and cleaning using **Python and pandas**. The objective was to learn how to take a messy CSV dataset, inspect its structure, identify data-quality issues, clean inconsistent values, perform analysis, and communicate the results in plain English.
 
 A customer-sales dataset was used to simulate a real-world data-cleaning task. The dataset contained missing values, duplicate records, inconsistent text formats, incorrect data types, and suspicious purchase amounts.
