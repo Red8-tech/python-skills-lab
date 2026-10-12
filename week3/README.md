@@ -1,5 +1,7 @@
 # Week 3 — SQL and SQLite
 
+## Overview
+
 This week focused on learning SQL using SQLite and a sample e-commerce database. I practised writing queries to retrieve, filter, sort, and analyse relational data, along with using Python's built-in `sqlite3` module to interact with the database.
 
 ## Topics Covered
