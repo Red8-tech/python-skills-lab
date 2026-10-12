@@ -1,5 +1,7 @@
 # Week 2 — Object-Oriented Python
 
+## Overview
+
 This folder contains my Week 2 practice for **Object-Oriented Programming (OOP) in Python**.
 
 The focus of this week was learning how to design classes, manage object state, use inheritance and polymorphism, and understand when to use inheritance versus composition.
